@@ -1,0 +1,33 @@
+body {
+  padding: 30px 30%;
+}
+
+/* Impostazione dell'Intestazione*/
+.header {
+  background-color: #d3d3d3;
+  border-bottom: 2px solid #b8860b;
+  position: relative;
+  text-align: center;
+}
+
+.header>h1 {
+  /*  text-align: center; */
+}
+
+/* Allineamento dell'immagine*/
+.profilePic {
+  /*  text-align: center; */
+}
+
+.main {
+  border-bottom: 2px solid #b8860b;
+}
+
+/*  Gestione h1 dei vari paragrafi */
+.paragrafi>h1 {
+  color: #b8860b;
+}
+
+footer {
+  font-size: 15px;
+}
